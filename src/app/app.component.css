@@ -1,0 +1,21 @@
+
+h1{
+    color: brown;
+}
+input{
+    width: 200px;
+    height: 30px;
+    align-items: center;
+    background-color: beige;
+    
+}
+button{
+    color:beige;
+    background-color: brown;
+    border-color: beige;
+    height: 20px;
+    border-radius: 0%;
+}
+.row{
+    align-items: center;
+}
